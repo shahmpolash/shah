@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color:orange;
 }
-section{
+.flex{
     display:flex;
     margin: 100px;
 }
@@ -36,4 +36,8 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.new{
+    display:flex;
+    margin: 100px; 
 }
