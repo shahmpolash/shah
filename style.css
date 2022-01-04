@@ -15,6 +15,15 @@ h1{
 .half-width{
     width: 80%;
     padding: 5%;
+    background-color: rgb(177, 172, 172);
+    border-radius: 10px;
+    border-style: double;
+    
+}
+.half-width1{
+    width: 80%;
+    padding: 5%;
+
     
 }
 .half-width img{
