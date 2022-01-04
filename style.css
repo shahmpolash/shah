@@ -27,6 +27,7 @@ h1{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+    text-align-last: center;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -48,4 +49,7 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
+}
+.center{
+    text-align-last: center;
 }
