@@ -11,6 +11,9 @@ h1{
 .flex{
     display:flex;
     margin: 100px;
+    border-radius: 15px;
+    border-style: double;
+    box-shadow: 10px 15px 30px 30px;
 }
 .half-width{
     width: 80%;
@@ -61,4 +64,11 @@ h1{
 }
 .center{
     text-align-last: center;
+}
+.welcome{
+    font-size: 80px;
+    text-align-last: center;
+}
+.top{
+    border-radius: 15;
 }
